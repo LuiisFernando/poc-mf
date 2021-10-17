@@ -1,0 +1,17 @@
+{
+    "name": "poc-mf",
+    "private": true,
+    "workspaces": {
+        "packages": [
+            "poc-mf-nav",
+            "poc-mf-footer"
+        ]
+    },
+    "scripts": {
+        "start": "lerna run --parallel start",
+        "build": "lerna run build"
+    },
+    "devDependencies": {
+        "lerna": "^4.0.0"
+    }
+}

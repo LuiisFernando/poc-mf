@@ -1,0 +1,6 @@
+[submodule "poc-mf-nav"]
+	path = poc-mf-nav
+	url = https://github.com/LuiisFernando/poc-mf-nav
+[submodule "poc-mf-footer"]
+	path = poc-mf-footer
+	url = https://github.com/LuiisFernando/poc-mf-footer
